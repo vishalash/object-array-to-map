@@ -1,0 +1,19 @@
+{
+  "name": "object-array-to-map",
+  "version": "1.0.2",
+  "description": "Converts an array of objects into a Map of objects grouped by a specified key.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "array",
+    "object",
+    "map"
+  ],
+  "author": "Vishal Ash",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
